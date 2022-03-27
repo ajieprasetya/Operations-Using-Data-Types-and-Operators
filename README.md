@@ -35,7 +35,7 @@ Below is a summary and sections of each material:
    - Identity Operator
    
 5. Dynamic Typing
-     which is a programming language that only knows the type of variables when the program is running and assignments are made.
+     is a programming language that only knows the type of variables when the program is running and assignments are made.
 
 6. Transform Number, Characters, and String
    - Case Manipulators:
