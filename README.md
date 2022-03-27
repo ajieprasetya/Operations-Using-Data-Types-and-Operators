@@ -1,4 +1,4 @@
-# Operations-Using-Data-Types-and-Operators-Python
+# Operations Using Data Types and Operators Python
    Python has several data types and operators, namely Data Type Conversion, Input and Output, List, set and string operations, Operator, Operand, and Expressions, Dynamic Typing, Transform Number, Characters, and String, Conditional Expression, Replacing String Elements, String Checking and Formatting String.
 
 Below is a summary and sections of each material:
