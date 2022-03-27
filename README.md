@@ -35,7 +35,7 @@ Below is a summary and sections of each material:
    - Identity Operator
    
 5. Dynamic Typing
-     Python applies one of the languages, namely dynamic typing, which is a programming language that only knows the type of variables when the program is        running and assignments are made.
+     which is a programming language that only knows the type of variables when the program is running and assignments are made.
 
 6. Transform Number, Characters, and String
    - Case Manipulators:
@@ -55,7 +55,7 @@ Below is a summary and sections of each material:
    - ELIF function
 
 8. Replacing String Elements
-    replace() is an inbuilt function in the Python programming language that returns a copy of the string where all occurrences of a substring are replaced with another substring.
+    is an inbuilt function in the Python programming language that returns a copy of the string where all occurrences of a substring are replaced with another substring.
 
 9. String Checking
    - Isupper()
